@@ -4,7 +4,7 @@ def print_hi(name):
 
 
 def Bar():
-    print('Bar!')
+    print('Bar!!')
 
 
 
