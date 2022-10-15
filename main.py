@@ -7,8 +7,6 @@ def Bar():
     print('Bar!')
 
 
-def foo():
-    print('Foo!')
 
 
 if __name__ == '__main__':
