@@ -6,7 +6,8 @@ def print_hi(name):
 def Bar():
     print('Bar!!!')
 
-
+def fo():
+    print('fool')
 
 
 if __name__ == '__main__':
